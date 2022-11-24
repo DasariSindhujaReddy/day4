@@ -1,0 +1,15 @@
+sno=int(input('enter student no:'))
+enter student no:15
+name=input('enter student name:')
+enter student name:CHINNU
+group=input('enter group:')
+enter group:BCA
+s1=int(input('enter s1 marks:'))
+enter s1 marks:45
+s2=int(input('enter s2 marks:'))
+enter s2 marks:50
+s3=int(input('enter s3 marks:'))
+enter s3 marks:35if(s1>=35,s2>=35,s3>=35):
+    print(student is pass)
+print('student is pass')
+student is pass
