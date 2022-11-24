@@ -1,0 +1,50 @@
+a=int(input('enter a value:'))
+enter a value:15
+b=int(input('enter b value:'))
+enter b value:25
+c=a+b
+print(c)
+40
+a=int(input('enter a value:'))
+enter a value:25
+b=int(input('enter b value:'))
+enter b value:15
+c=a-b
+print(c)
+10
+a=int(input('enter a value:'))
+enter a value:15
+b=int(input('enter b value:'))
+enter b value:25
+c=a*b
+print(c)
+375
+a=int(input('enter a value:'))
+enter a value:15
+b=int(input('enter b value:'))
+enter b value:3
+c=a/b
+print(c)
+5.0
+a=int(input('enter a value:'))
+enter a value:15
+b=int(input('enter b value:'))
+enter b value:7
+c=a%b
+print(c)
+1
+a=int(input('enter a value:'))
+enter a value:100
+b=int(input('enter b value:'))
+enter b value:3
+c=a**b
+print(c)
+1000000
+a=int(input('enter a value:'))
+enter a value:100
+b=int(input('enter b value:'))
+enter b value:3
+c=a//b
+print(c)
+33
+
